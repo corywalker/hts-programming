@@ -1,0 +1,2 @@
+USAGE:
+python unscrambler.py UNSCRAMBLED_LIST SCRAMBLED_LIST
